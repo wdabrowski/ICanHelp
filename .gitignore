@@ -105,4 +105,4 @@ Backup*/
 UpgradeLog*.XML
 
 # NPM files
-node-modules/
+node_modules/
